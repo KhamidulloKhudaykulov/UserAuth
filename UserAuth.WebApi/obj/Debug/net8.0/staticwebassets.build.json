@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PuGRY5B7eBTnyH5KQk1szPKC1IRqzPr3IRXR9YHShv4=",
+  "Source": "UserAuth.WebApi",
+  "BasePath": "_content/UserAuth.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

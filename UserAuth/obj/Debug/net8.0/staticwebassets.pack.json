@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Xamidullo\\source\\repos\\UserAuth\\UserAuth\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UserAuth.bundle.scp.css",
+      "PackagePath": "staticwebassets\\UserAuth.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Xamidullo\\source\\repos\\UserAuth\\UserAuth\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Xamidullo\\source\\repos\\UserAuth\\UserAuth\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Xamidullo\\source\\repos\\UserAuth\\UserAuth\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Xamidullo\\source\\repos\\UserAuth\\UserAuth\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UserAuth.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UserAuth.props",
+      "PackagePath": "build\\UserAuth.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UserAuth.props",
+      "PackagePath": "buildMultiTargeting\\UserAuth.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UserAuth.props",
+      "PackagePath": "buildTransitive\\UserAuth.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

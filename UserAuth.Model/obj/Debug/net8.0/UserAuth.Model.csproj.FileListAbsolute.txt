@@ -1,0 +1,11 @@
+C:\Users\Xamidullo\source\repos\UserAuth\UserAuth.Model\bin\Debug\net8.0\UserAuth.Model.deps.json
+C:\Users\Xamidullo\source\repos\UserAuth\UserAuth.Model\bin\Debug\net8.0\UserAuth.Model.dll
+C:\Users\Xamidullo\source\repos\UserAuth\UserAuth.Model\bin\Debug\net8.0\UserAuth.Model.pdb
+C:\Users\Xamidullo\source\repos\UserAuth\UserAuth.Model\obj\Debug\net8.0\UserAuth.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xamidullo\source\repos\UserAuth\UserAuth.Model\obj\Debug\net8.0\UserAuth.Model.AssemblyInfoInputs.cache
+C:\Users\Xamidullo\source\repos\UserAuth\UserAuth.Model\obj\Debug\net8.0\UserAuth.Model.AssemblyInfo.cs
+C:\Users\Xamidullo\source\repos\UserAuth\UserAuth.Model\obj\Debug\net8.0\UserAuth.Model.csproj.CoreCompileInputs.cache
+C:\Users\Xamidullo\source\repos\UserAuth\UserAuth.Model\obj\Debug\net8.0\UserAuth.Model.dll
+C:\Users\Xamidullo\source\repos\UserAuth\UserAuth.Model\obj\Debug\net8.0\refint\UserAuth.Model.dll
+C:\Users\Xamidullo\source\repos\UserAuth\UserAuth.Model\obj\Debug\net8.0\UserAuth.Model.pdb
+C:\Users\Xamidullo\source\repos\UserAuth\UserAuth.Model\obj\Debug\net8.0\ref\UserAuth.Model.dll
